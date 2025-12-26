@@ -66,7 +66,7 @@ The project is divided into **three main parts**:
 
 📸 Project Preview
 🏠 Home Page
-<p align="center"> <img src="images/menu.png" alt="Home Page" width="700"/> </p>
+<p align="center"> <img src="images/home.png" alt="Home Page" width="700"/> </p>
 🍔 Explore Menu
 <p align="center"> <img src="images/explore.png" alt="Explore Menu" width="700"/> </p>
 🛒 Cart Page
@@ -78,6 +78,7 @@ The project is divided into **three main parts**:
 📦 My Orders (User Panel)
 <p align="center"> <img src="images/myorders.png" alt="My Orders Page" width="700"/> </p>
 🛠️ Admin Panel Preview
+
 ➕ Upload / Add Food Item
 <p align="center"> <img src="images/additem.png" alt="Admin Add Item Page" width="700"/> </p>
 📦 Orders Management (Admin)
