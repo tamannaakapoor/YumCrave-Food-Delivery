@@ -64,11 +64,13 @@ The project is divided into **three main parts**:
 
 ## 🖼️ Screenshots
 
-📸 Project Preview
+📸 Project Preview 
+
 🏠 Home Page
 <p align="center"> <img src="images/home.png" alt="Home Page" width="700"/> </p>
 🍔 Explore Menu
 <p align="center"> <img src="images/explore.png" alt="Explore Menu" width="700"/> </p>
+<p align="center"> <img src="images/menu.png" alt="Explore Menu" width="700"/> </p>
 🛒 Cart Page
 <p align="center"> <img src="images/cart.png" alt="Cart Page" width="700"/> </p>
 📍 Place Order
@@ -81,6 +83,8 @@ The project is divided into **three main parts**:
 
 ➕ Upload / Add Food Item
 <p align="center"> <img src="images/additem.png" alt="Admin Add Item Page" width="700"/> </p>
+List Items 
+<p align="center"> <img src="images/listitems.png" alt="Admin List Item Page" width="700"/> </p>
 📦 Orders Management (Admin)
 <p align="center"> <img src="images/orderstatus.png" alt="Admin Order Status Page" width="700"/> </p>
 
@@ -91,47 +95,6 @@ The project is divided into **three main parts**:
 - My Orders  
 - Admin Dashboard  
 - Admin Orders Page  
-
----
-
-## 🧱 Project Structure
-
-YumCrave/
-│
-├── frontend/ # User Panel
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── context/
-│ │ ├── assets/
-│ │ └── App.jsx
-│
-├── admin/ # Admin Panel (Separate App)
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── components/
-│ │ │ ├── Login/
-│ │ │ ├── Navbar/
-│ │ │ └── Sidebar/
-│ │ ├── pages/
-│ │ │ ├── Add/
-│ │ │ ├── List/
-│ │ │ └── Orders/
-│ │ ├── context/
-│ │ ├── App.jsx
-│ │ └── index.css
-│
-├── backend/ # Backend API
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ ├── uploads/
-│ ├── server.js
-│ └── .env
-│
-└── README.md
-
 
 ---
 
@@ -159,8 +122,8 @@ YumCrave/
 
 ## ⚙️ Run Locally
 
-### 1️⃣ Clone Repository
 ```bash
+1️⃣ Clone Repository
 git clone https://github.com/your-username/yumcrave.git
 cd yumcrave
 
