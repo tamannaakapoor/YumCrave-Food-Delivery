@@ -11,7 +11,9 @@ The project is divided into **three main parts**:
 
 ## 🌐 Demo
 
-> (Add deployed links when available)
+- **User Panel:** https://yumcrave-food-delivery.vercel.app/  
+- **Admin Panel:** https://yumcrave-admin-panel.vercel.app/ 
+- **Backend API:** https://yumcrave-food-delivery-backend.onrender.com 
 
 - **User Panel:** http://localhost:5173  
 - **Admin Panel:** http://localhost:5174 
